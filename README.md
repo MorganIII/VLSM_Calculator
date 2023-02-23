@@ -24,24 +24,24 @@ First Host IP Address: 172.31.103.1.\
 Last Host IP Address: 172.31.103.126.\
 Broadcast IP Address: 172.31.103.127.\
 Subnet Mask: 255.255.255.128.\
-Integer Subnet Mask: 25.\
+Integer Subnet Mask: 25.
 ------------------------------------------------
 ### Subnet 1
 
-Network ID: 172.31.103.128.
-First Host IP Address: 172.31.103.129.
-Last Host IP Address: 172.31.103.190.
-Broadcast IP Address: 172.31.103.191.
-Subnet Mask: 255.255.255.192.
+Network ID: 172.31.103.128.\
+First Host IP Address: 172.31.103.129.\
+Last Host IP Address: 172.31.103.190.\
+Broadcast IP Address: 172.31.103.191.\
+Subnet Mask: 255.255.255.192.\
 Integer Subnet Mask: 26.
 ------------------------------------------------
 ### Subnet 2
 
-Network ID: 172.31.103.192.
-First Host IP Address: 172.31.103.193.
-Last Host IP Address: 172.31.103.222.
-Broadcast IP Address: 172.31.103.223.
-Subnet Mask: 255.255.255.224.
+Network ID: 172.31.103.192.\
+First Host IP Address: 172.31.103.193.\
+Last Host IP Address: 172.31.103.222.\
+Broadcast IP Address: 172.31.103.223.\
+Subnet Mask: 255.255.255.224.\
 Integer Subnet Mask: 27.
 ------------------------------------------------
 
