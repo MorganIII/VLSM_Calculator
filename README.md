@@ -19,12 +19,12 @@ The VLSM calculations have resulted in the following IP address ranges for each 
 
 ### Subnet 0
 
-Network ID: 172.31.103.0.
-First Host IP Address: 172.31.103.1.
-Last Host IP Address: 172.31.103.126.
-Broadcast IP Address: 172.31.103.127.
-Subnet Mask: 255.255.255.128.
-Integer Subnet Mask: 25.
+Network ID: 172.31.103.0.\
+First Host IP Address: 172.31.103.1.\
+Last Host IP Address: 172.31.103.126.\
+Broadcast IP Address: 172.31.103.127.\
+Subnet Mask: 255.255.255.128.\
+Integer Subnet Mask: 25.\
 ------------------------------------------------
 ### Subnet 1
 
